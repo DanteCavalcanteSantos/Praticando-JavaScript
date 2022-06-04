@@ -5,7 +5,7 @@ import{ContaEmpresarial} from "./ContaEmpresarial.js";
 
 export class Conta extends Cliente{ 
 
-constructor(ContaCorrente, ContaPoupanca){
+constructor(Cliente){
     super(nome, cpf, agencia);
     }
 }
